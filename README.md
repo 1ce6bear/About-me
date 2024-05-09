@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Private</h1>
 <h3 align="center">Cyber Security</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/gif-maker?caption_item_id=16626373773446156979&utm_source=gif-caption&utm_medium=internal&utm_campaign=gif-maker-entrypoints">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1cebear&label=Profile%20views&color=0e75b6&style=flat" alt="1cebear" /> </p>
 
 - 🔭 I’m currently working on **SOC**
