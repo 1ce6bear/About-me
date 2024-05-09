@@ -1,37 +1,42 @@
-<div style="position: relative; overflow: hidden; height: 100px;">
-  <div style="position: absolute; top: -100px; left: 0; width: 100%; height: 100px; background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 50%,rgba(0,0,0,0) 100%);"></div>
-  <div style="position: absolute; top: -100px; left: 0; width: 100%; height: 100px; background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 50%,rgba(0,0,0,0) 100%); animation: animate-stripes 2s infinite linear;"></div>
-</div>
+<h1 align="center">Hi 👋, I'm Private</h1>
+<h3 align="center">cyber security</h3>
 
-# Ethical Hacking Project
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1cebear&label=Profile%20views&color=0e75b6&style=flat" alt="1cebear" /> </p>
 
-## 📚 Introduction
-Welcome to the Ethical Hacking Project! We're dedicated to exploring cybersecurity, uncovering vulnerabilities, and enhancing digital defense strategies. With a focus on ethical practices, we strive to make cyberspace safer for everyone.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1cebear" alt="1cebear" /></a> </p>
 
-## 🛠️ Skills
-- **Penetration Testing**: Conducting comprehensive tests to identify network, application, and infrastructure weaknesses.
-- **Vulnerability Assessment**: Analyzing and prioritizing system vulnerabilities.
-- **Exploit Development**: Testing and validating exploits for remediation.
-- **Security Tools**: Utilizing tools like Metasploit, Nmap, Wireshark, and Burp Suite.
-- **Ethical Mindset**: Upholding ethical and legal standards in all activities.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🚀 Projects
-- **[Project Name]**: Description of the project and your role in enhancing its security posture.
-- **[Project Name]**: Summary of contributions to identifying and mitigating security risks in another project.
+- 🔭 I’m currently working on **soc**
 
-## 📩 Get in Touch
-If you're interested in collaborating or have any questions, feel free to reach out to us at [your@email.com](mailto:your@email.com). Let's work together to secure cyberspace!
+- 🌱 I’m currently learning **python**
 
-## ⚠️ Disclaimer
-All hacking activities conducted adhere strictly to legal and ethical standards. We do not engage in unauthorized or malicious activities.
+- 👯 I’m looking to collaborate on **emty**
 
-<style>
-  @keyframes animate-stripes {
-    0% {
-      transform: translateY(0);
-    }
-    100% {
-      transform: translateY(100%);
-    }
-  }
-</style>
+- 🤝 I’m looking for help with **emty+ 1**
+
+- 👨‍💻 All of my projects are available at [https://github.com/1ce6bear](https://github.com/1ce6bear)
+
+- 💬 Ask me about **linux**
+
+- 📫 How to reach me **ducson.dev.23@gmail.com**
+
+- ⚡ Fun fact **i like the emty**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.private" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.private" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1cebear&show_icons=true&locale=en&layout=compact" alt="1cebear" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1cebear&show_icons=true&locale=en" alt="1cebear" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1cebear&" alt="1cebear" /></p>
