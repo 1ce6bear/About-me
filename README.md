@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **SOC**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **emty**
+- 👯 I’m looking to collaborate on **Emty**
 
-- 🤝 I’m looking for help with **emty+ 1**
+- 🤝 I’m looking for help with **Emty+ 1**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1ce6bear](https://github.com/1ce6bear)
 
