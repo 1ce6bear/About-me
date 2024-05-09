@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Private</h1>
 <h3 align="center">Cyber Security</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/kalilinux-gif-4640926145978129355">
+
+![Coding](https://tenor.com/view/kalilinux-gif-4640926145978129355)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1cebear&label=Profile%20views&color=0e75b6&style=flat" alt="1cebear" /> </p>
 
